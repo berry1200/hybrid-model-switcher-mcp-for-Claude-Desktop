@@ -222,3 +222,10 @@ Use hybrid_generate with the active local model to draft a migration plan for th
 Phase 1 through Phase 4 are implemented for the MCP backend, routing engine, hardening layer, tests, observability, and release infrastructure. A visual companion UI can build on the active-route state file or a small local HTTP control plane. Native, one-click replacement of Claude's own model picker depends on Claude Desktop exposing a supported extension point for that behavior.
 
 See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full technical shape.
+
+
+<img width="1915" height="1015" alt="Screenshot 2026-05-27 223925" src="https://github.com/user-attachments/assets/703d0ffa-7b2a-4af5-a514-2abe5acd996d" />
+<img width="1562" height="1012" alt="Screenshot 2026-05-27 224040" src="https://github.com/user-attachments/assets/813a0c83-0336-498a-aaac-55bafd3be396" />
+<img width="1566" height="994" alt="Screenshot 2026-05-27 224333" src="https://github.com/user-attachments/assets/017cdbf7-fb32-4bcd-891f-0b19474ff0e4" />
+
+
