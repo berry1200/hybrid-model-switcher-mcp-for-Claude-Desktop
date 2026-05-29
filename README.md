@@ -227,5 +227,6 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for the full technical shape.
 <img width="1915" height="1015" alt="Screenshot 2026-05-27 223925" src="https://github.com/user-attachments/assets/703d0ffa-7b2a-4af5-a514-2abe5acd996d" />
 <img width="1562" height="1012" alt="Screenshot 2026-05-27 224040" src="https://github.com/user-attachments/assets/813a0c83-0336-498a-aaac-55bafd3be396" />
 <img width="1566" height="994" alt="Screenshot 2026-05-27 224333" src="https://github.com/user-attachments/assets/017cdbf7-fb32-4bcd-891f-0b19474ff0e4" />
+<img width="1060" height="716" alt="Screenshot 2026-05-29 215734" src="https://github.com/user-attachments/assets/4306f24e-78b8-42bc-b229-ef4631b5d216" />
 
 
