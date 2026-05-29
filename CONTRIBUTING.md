@@ -16,8 +16,8 @@ Thank you for taking the time to contribute. This document covers the developmen
 ## Development setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-model-switcher-mcp.git
-cd hybrid-model-switcher-mcp
+git clone https://github.com/berry1200/hybrid-model-switcher-mcp-for-Claude-Desktop.git
+cd hybrid-model-switcher-mcp-for-Claude-Desktop
 npm install
 ```
 
