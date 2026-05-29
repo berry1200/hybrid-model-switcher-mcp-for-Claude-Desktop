@@ -92,6 +92,6 @@ If you reference this work, please cite the GitHub repository:
 
 ```
 Hybrid Model Switcher MCP — MCP routing proxy for Claude Desktop / Ollama / LiteLLM
-https://github.com/YOUR_USERNAME/hybrid-model-switcher-mcp
+https://github.com/berru1200/hybrid-model-switcher-mcp-for-Claude-Desktop
 2026
 ```
