@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/getMachineId-unsupported.ts"],
+  "mappings": ";kIAKA,IAAAA,EAAA,IAEO,eAAeC,GAAY,CAChCD,EAAA,KAAK,MAAM,iDAAiD,CAE9D,CAHAE,EAAA,aAAAD",
+  "names": ["api_1", "getMachineId", "exports"]
+}

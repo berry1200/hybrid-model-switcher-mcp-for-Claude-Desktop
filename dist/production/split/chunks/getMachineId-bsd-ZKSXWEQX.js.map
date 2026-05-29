@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/getMachineId-bsd.ts"],
+  "mappings": "iLAKA,IAAAA,EAAA,EAAA,IAAA,EACAC,EAAA,IACAC,EAAA,IAEO,eAAeC,GAAY,CAChC,GAAI,CAEF,OADe,MAAMH,EAAA,SAAG,SAAS,cAAe,CAAE,SAAU,MAAM,CAAE,GACtD,KAAI,QACX,EAAG,CACVE,EAAA,KAAK,MAAM,6BAA6B,CAAC,EAAE,EAG7C,GAAI,CAEF,OADe,QAAMD,EAAA,WAAU,4BAA4B,GAC7C,OAAO,KAAI,QAClB,EAAG,CACVC,EAAA,KAAK,MAAM,6BAA6B,CAAC,EAAE,EAI/C,CAhBAE,EAAA,aAAAD",
+  "names": ["fs_1", "execAsync_1", "api_1", "getMachineId", "exports"]
+}

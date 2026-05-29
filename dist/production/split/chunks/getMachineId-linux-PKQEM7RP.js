@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+import{a as n,b as c,e as a}from"./chunk-V6XMUU4P.js";var o=c(e=>{Object.defineProperty(e,"__esModule",{value:!0});e.getMachineId=void 0;var d=n("fs"),s=a();async function u(){let i=["/etc/machine-id","/var/lib/dbus/machine-id"];for(let r of i)try{return(await d.promises.readFile(r,{encoding:"utf8"})).trim()}catch(t){s.diag.debug(`error reading machine id: ${t}`)}}e.getMachineId=u});export default o();

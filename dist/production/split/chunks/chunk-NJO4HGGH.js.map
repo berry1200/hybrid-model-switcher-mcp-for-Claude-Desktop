@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/execAsync.ts"],
+  "mappings": ";4IAKA,IAAAA,EAAA,EAAA,eAAA,EACAC,EAAA,EAAA,MAAA,EAEaC,EAAA,UAAYD,EAAK,UAAUD,EAAc,IAAI",
+  "names": ["child_process", "util", "exports"]
+}

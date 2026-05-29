@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/getMachineId-darwin.ts"],
+  "mappings": ";0KAKA,IAAAA,EAAA,IACAC,EAAA,IAEO,eAAeC,GAAY,CAChC,GAAI,CAGF,IAAMC,GAFS,QAAMH,EAAA,WAAU,wCAAwC,GAEjD,OACnB,MAAM;CAAI,EACV,KAAKI,GAAQA,EAAK,SAAS,gBAAgB,CAAC,EAE/C,GAAI,CAACD,EACH,OAGF,IAAME,EAAQF,EAAO,MAAM,OAAO,EAClC,GAAIE,EAAM,SAAW,EACnB,OAAOA,EAAM,CAAC,EAAE,MAAM,EAAG,EAAE,QAEtBC,EAAG,CACVL,EAAA,KAAK,MAAM,6BAA6BK,CAAC,EAAE,EAI/C,CArBAC,EAAA,aAAAL",
+  "names": ["execAsync_1", "api_1", "getMachineId", "idLine", "line", "parts", "e", "exports"]
+}

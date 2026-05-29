@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/getMachineId-linux.ts"],
+  "mappings": "yIAIA,IAAAA,EAAA,EAAA,IAAA,EACAC,EAAA,IAEO,eAAeC,GAAY,CAChC,IAAMC,EAAQ,CAAC,kBAAmB,0BAA0B,EAE5D,QAAWC,KAAQD,EACjB,GAAI,CAEF,OADe,MAAMH,EAAA,SAAG,SAASI,EAAM,CAAE,SAAU,MAAM,CAAE,GAC7C,KAAI,QACXC,EAAG,CACVJ,EAAA,KAAK,MAAM,6BAA6BI,CAAC,EAAE,EAKjD,CAbAC,EAAA,aAAAJ",
+  "names": ["fs_1", "api_1", "getMachineId", "paths", "path", "e", "exports"]
+}

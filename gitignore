@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# Test artifacts
+test-results/
+playwright-report/
+coverage/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vs/
+.vscode/settings.json
+*.suo
+*.user
+
+# Environment / secrets
+.env
+.env.local
+.env*.local
+
+# LiteLLM
+litellm_config_local.yaml
+
+# Hybrid MCP runtime state (user-specific, not project config)
+.hybrid-model-switcher/
+
+# Logs
+*.log
+npm-debug.log*
+
+# esbuild bundle analysis (large, regenerate with npm run bundle)
+dist/production/

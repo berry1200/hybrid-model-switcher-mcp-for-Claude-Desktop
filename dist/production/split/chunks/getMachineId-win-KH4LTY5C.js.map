@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../../../node_modules/@opentelemetry/resources/src/detectors/platform/node/machine-id/getMachineId-win.ts"],
+  "mappings": "iLAKA,IAAAA,EAAA,EAAA,SAAA,EACAC,EAAA,IACAC,EAAA,IAEO,eAAeC,GAAY,CAChC,IAAMC,EACJ,6EACEC,EAAU,8BACVL,EAAQ,OAAS,QAAU,2BAA4BA,EAAQ,MACjEK,EAAU,mCAAqCA,GAGjD,GAAI,CAEF,IAAMC,GADS,QAAML,EAAA,WAAU,GAAGI,CAAO,IAAID,CAAI,EAAE,GAC9B,OAAO,MAAM,QAAQ,EAC1C,GAAIE,EAAM,SAAW,EACnB,OAAOA,EAAM,CAAC,EAAE,KAAI,QAEfC,EAAG,CACVL,EAAA,KAAK,MAAM,6BAA6BK,CAAC,EAAE,EAI/C,CAnBAC,EAAA,aAAAL",
+  "names": ["process", "execAsync_1", "api_1", "getMachineId", "args", "command", "parts", "e", "exports"]
+}

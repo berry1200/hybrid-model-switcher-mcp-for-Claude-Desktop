@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "notes": "Hybrid Model Switcher MCP 0.2.0 production updater channel. Contains the Phase 5 lifecycle, rollback, crash triage, and compatibility guard release.",
+  "pub_date": "2026-05-29T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/hybrid-model-switcher/hybrid-model-switcher-mcp/releases/download/v0.2.0/Hybrid_Model_Switcher_0.2.0_x64_en-US.msi.zip",
+      "signature": "MEUCIEg35RxPhLUFwjDbDLg9P19KdkQAnGeCHFpI3wGNWf2PAiEAzQgo37tJNgUM3MFr7d0pJ9HMG45uAnb99GMmnYxz7nw="
+    },
+    "darwin-x86_64": {
+      "url": "https://github.com/hybrid-model-switcher/hybrid-model-switcher-mcp/releases/download/v0.2.0/Hybrid_Model_Switcher_0.2.0_x64.dmg.tar.gz",
+      "signature": "MEQCIFb1UTiGzC6ECx7l9EexGwvAEwUPGRnduHaWiSTP5DCJAiAUXJODCOOUOFlbn86El3BlxMT1dJvdUQYVdKVKp85bPg=="
+    },
+    "darwin-aarch64": {
+      "url": "https://github.com/hybrid-model-switcher/hybrid-model-switcher-mcp/releases/download/v0.2.0/Hybrid_Model_Switcher_0.2.0_aarch64.dmg.tar.gz",
+      "signature": "MEQCIB5FqLM6HvgH4Gs2rTmc9CqUr6CM3zF4fRDcpbFq56VdAiBvyFZI9UHphNFaWPwZx8nnrGQjOLLSZdbMNgDRu70bjA=="
+    },
+    "linux-x86_64": {
+      "url": "https://github.com/hybrid-model-switcher/hybrid-model-switcher-mcp/releases/download/v0.2.0/Hybrid_Model_Switcher_0.2.0_amd64.AppImage.tar.gz",
+      "signature": "MEYCIQCF14JLLeqkWw6Pcs8yVTaMaYCvoTVgTKmPtvUn8B9nOQIhAM4ZxB26j1Blpnor0r9VeIhZmGHq84cQeJK23cn8X3vH"
+    }
+  }
+}
