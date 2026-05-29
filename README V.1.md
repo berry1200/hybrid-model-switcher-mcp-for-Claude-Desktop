@@ -89,7 +89,7 @@ The screenshots below are from a live Claude Desktop session running on Windows 
 ### 1 — Install and build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hybrid-model-switcher-mcp.git
+git clone https://github.com/berry1200/hybrid-model-switcher-mcp.git
 cd hybrid-model-switcher-mcp
 npm install
 npm run build
